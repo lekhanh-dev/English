@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "word": "act",
+    "dependencies": [
+      "The new president’s first act should be to end the war.",
+      "a thoughtless act",
+      "i acted for my life"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "apologize",
+    "dependencies": [
+      "I’m so sorry, I do apologize.",
+      "I think you should apologize to your brother."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "appearance",
+    "dependencies": [
+      "They’ve changed the appearance of the whole building.",
+      "He was always criticising his wife’s appearance."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "assume",
+    "dependencies": [
+      "I didn’t see your car, so I assumed you’d gone out.",
+      "Let us assume for a moment that the plan succeeds."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "bread",
+    "dependencies": [
+      "",
+      ""
+    ]
+  }
+]
